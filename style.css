@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+}
+/* *{
+    border:solid;
+} */
+.header{
+    background-color:silver;
+    display:flex;
+    justify-content:centre;
+}
+h2,p{
+    text-align: center;
+}
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
